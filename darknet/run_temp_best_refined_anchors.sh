@@ -1,0 +1,1 @@
+./darknet detector demo cfg/voc-vehicle-person.data cfg/yolov3-tiny-ncs-without-last-maxpool-refined-anchors-test.cfg backup/yolov3-tiny-ncs-without-last-maxpool-refined-anchors_60000.weights /video/JiNan_Person/20180927/17_27_12.264 -thresh 0.3

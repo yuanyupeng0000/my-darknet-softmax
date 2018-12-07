@@ -1,0 +1,6 @@
+classes= 5
+train  = /datasets/train.txt
+valid  = /datasets/2007_test.txt
+names = data/car_person_voc.names
+backup = backup
+

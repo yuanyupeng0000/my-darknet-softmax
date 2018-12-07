@@ -1,0 +1,7 @@
+classes= 5
+train  = /opt/data/train.txt
+valid  = /opt/data/2007_test.txt
+names = data/voc-ball.names
+backup = backup
+
+

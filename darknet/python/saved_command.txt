@@ -1,0 +1,1 @@
+python truncated_get_xml_3cls.py cfg/coco.data cfg/yolov3-anotation.cfg /opt/darknet/weights/yolov3.weights 70500 20 /video/WuHan_High_Sky/27.11.32.16_01_20180921183741410_1.mp4

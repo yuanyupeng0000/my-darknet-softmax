@@ -1,0 +1,7 @@
+classes= 3
+train  = /home/yyp/data/train.txt
+valid  = /home/yyp/data/2007_test.txt
+names = data/voc-veichle.names
+backup = backup
+
+
